@@ -21,6 +21,7 @@ public class Konfliktuskezeles {
         nev1="Marci";
 
         nev2= "xy";
+        String nev3;
 
     }
     
